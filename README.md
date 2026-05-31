@@ -23,6 +23,3 @@ The main objective of this project is to automate the rigorous adjustment of loc
 - `docs/`: Brief mathematical background or project report.
 
 ## 🏃 How to Run
-1. Clone the repository:
-```bash
-   git clone [https://github.com/YOUR_USERNAME/geodesic-network-adjustment.git](https://github.com/YOUR_USERNAME/geodesic-network-adjustment.git)
