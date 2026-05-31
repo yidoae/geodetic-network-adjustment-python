@@ -1,7 +1,7 @@
  
 # Geodetic Network Adjustment with Python
 
-This project implements a comprehensive geodetic network adjustment using the **Least Squares Method (En Küçük Kareler Yöntemi)**. It processes observational geodetic data, performs statistical analysis, and computes optimized coordinates for network points with high precision.
+This project implements a comprehensive geodetic network adjustment using the **Least Squares Method**. It processes observational geodetic data, performs statistical analysis, and computes optimized coordinates for network points with high precision.
 
 ## 🎯 Purpose
 The main objective of this project is to automate the rigorous adjustment of local/regional geodetic networks. It eliminates random errors from field measurements (such as distances and angles) to ensure spatial data integrity, which is fundamental for high-precision surveying and mapping engineering.
