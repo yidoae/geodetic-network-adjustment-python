@@ -18,7 +18,7 @@ The main objective of this project is to automate the rigorous adjustment of loc
 - **Precision Analysis:** Computes cofactor matrices, standard deviations, and error ellipses for adjusted points.
 
 ## 📁 Repository Structure
-- `main.py` / `adjustment.ipynb`: Core Python code/notebook executing the matrix operations.
+- `geodetic-ajustment.py`: Core Python code/notebook executing the matrix operations.
 - `data/`: Input files containing raw geodetic observations (angles, distances, coordinates).
 - `docs/`: Brief mathematical background or project report.
 
