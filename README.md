@@ -20,6 +20,5 @@ The main objective of this project is to automate the rigorous adjustment of loc
 ## 📁 Repository Structure
 - `geodetic_ajustment.py`: Core Python code/notebook executing the matrix operations.
 - `Baseline Processing Report.pdf and referans_istasyonlarin_turef_koordinatlari`: Input files containing raw geodetic observations (angles, distances, coordinates).
-- `excel_adjustment`: Brief mathematical background or project report.
 
 ## 🏃 How to Run
